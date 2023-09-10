@@ -58,7 +58,7 @@ const MainVisual: FC<MainVisualProps> = ({ sx }) => {
               maxWidth: '600px',
             }}
           >
-            Day: 2022 11.19 (Sat.) 13:00 〜
+            Day: 2023 9.11 (Mon.) 15:00 〜
           </Typography>
           <Typography
             variant='h6'
@@ -70,7 +70,7 @@ const MainVisual: FC<MainVisualProps> = ({ sx }) => {
               maxWidth: '600px',
             }}
           >
-            Duration: 60 minutes
+            〜 2023 9.12 (Tue.) 23:59
           </Typography>
         </Box>
       </Box>
